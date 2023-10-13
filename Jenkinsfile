@@ -3,7 +3,7 @@ pipeline {
 
     environment {
         DOCKER_IMAGE = 'shaikhayeman95/my-express-app:latest'
-        GITHUB_REPO = 'https://github.com/CL-ayeman/Austere-Devops-Project.git'
+        GITHUB_REPO = 'https://github.com/CirrusLabs-NPD/Austere-Devops-RaspberryPi.git'
         GITHUB_PAT_CREDENTIALS = 'github-token'
     }
 
